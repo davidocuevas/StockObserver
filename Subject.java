@@ -1,4 +1,4 @@
-public interface Subject {
+public interface Subject { //Observer data structure
 	/* Registers an Observer */
 	public void registerObserver(Observer o);
 	/* Unregisters an Observer */
